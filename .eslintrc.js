@@ -1,5 +1,3 @@
-const config = require('./webpack.config.js');
-
 module.exports = {
   parser: 'babel-eslint',
   plugins: ['prettier', 'react'],
@@ -31,11 +29,6 @@ module.exports = {
     'no-empty': ['error', { allowEmptyCatch: true }]
   },
   settings: {
-    'import/resolver': {
-      webpack: {
-        config: config({})
-      }
-    }
   },
   extends: [
     'prettier',
