@@ -23,7 +23,12 @@
     "bdb": "0.0.3"
   },
   "peerDependencies": {
-    "bcoin": "git+https://github.com/bcoin-org/bcoin.git"
+    "@bpanel/bpanel-ui": "0.0.7",
+    "bcoin": "git+https://github.com/bcoin-org/bcoin.git",
+    "prop-types": "^15.6.1",
+    "redux": "^3.7.2",
+    "react-redux": "^5.0.7",
+    "redux": "^3.7.2"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.2",
