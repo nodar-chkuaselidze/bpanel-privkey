@@ -1,7 +1,7 @@
 bPanel-PrivKey
 ====
 
-[bPanel][bpanel] private key management in local storage.
+[bPanel][bpanel] private key management in IndexedDB.
 
 ## License
 - Copyright (c) 2018, The bPanel Devs (MIT License).
