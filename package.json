@@ -21,6 +21,7 @@
     "babel-cli": "^6.26.0",
     "babel-plugin-transform-runtime": "^6.23.0",
     "bdb": "0.0.3",
+    "bmutex": "0.0.2",
     "bufio": "0.0.3"
   },
   "peerDependencies": {
